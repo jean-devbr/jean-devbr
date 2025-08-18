@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jean-devbr/jean-devbr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jean-devbr/jean-devbr/output/snake.svg" alt="Snake animation" />
 
 
 
