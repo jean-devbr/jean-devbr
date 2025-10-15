@@ -1,18 +1,18 @@
 # Hello World  🌎 
-<h2 align="left"> Olá! Me chamo Jean, tenho 22 anos e sou do Rio de Janeiro. Sou uma pessoa curiosa, em constante aprendizado, e gosto de me desafiar para crescer pessoal e profissionalmente. Estou sempre em busca de novas oportunidades e experiências que me ajudem a evoluir e contribuir com projetos de forma significativa.</h2>
+<h2 align="left"> Hello! My name is Jean, I'm 22 years old and I'm from Rio de Janeiro. I'm a curious person, constantly learning, and I like to challenge myself to grow personally and professionally. I'm always looking for new opportunities and experiences that help me evolve and contribute to projects in a meaningful way.</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jean-devbr&show_icons=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false&cache_seconds=60" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jean-devbr&show_icons=true&count_private=true&theme=dracula&locale=en&hide_border=false&cache_seconds=60" height="150" alt="stats graph" />
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-devbr&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=60" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-devbr&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=60" height="150" alt="languages graph" />
 
 
 </div>
 
 -----
-### Tecnologia que eu já utilizei
+### Technologies I have used
 
 <div align="center">
   
@@ -25,10 +25,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo" />
-          
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 
 </div>
 
