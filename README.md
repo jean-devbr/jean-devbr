@@ -4,7 +4,7 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jean-devbr&theme=dracula" height="200" alt="stats graph" />
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jean-devbr&theme=dracula" height="200" alt="languages graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jean-devbr&theme=dracula" height="200" alt="languages graph" />
 </div>
 
 -----
