@@ -2,9 +2,7 @@
 <h2 align="left"> Hello! My name is Jean, I'm 22 years old and I'm from Rio de Janeiro. I'm a curious person, constantly learning, and I like to challenge myself to grow personally and professionally. I'm always looking for new opportunities and experiences that help me evolve and contribute to projects in a meaningful way.</h2>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jean-devbr&theme=default" height="200" alt="stats graph" />
-
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jean-devbr&theme=default" height="200" alt="languages graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jean-devbr&theme=dracula" height="150" alt="stats graph" />
 </div>
 
 -----
