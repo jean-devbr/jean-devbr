@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jean-devbr&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&locale=pt-br" height="165" alt="Estatísticas do GitHub de Jean Costa" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jean-devbr&layout=compact&theme=dracula&hide_border=false&locale=pt-br&langs_count=6" height="165" alt="Linguagens mais usadas por Jean Costa" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jean-devbr&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&locale=en" height="165" alt="Jean Costa's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jean-devbr&layout=compact&theme=dracula&hide_border=false&locale=en&langs_count=6" height="165" alt="Jean Costa's most used languages" />
 </div>
 
 -----
@@ -58,7 +58,7 @@
  
 </div>
 
-### Segurança
+### Security
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 </div>
 
-### Banco de dados && Container
+### Databases & Containers
 
 <div align="center">
 
@@ -83,7 +83,7 @@
   <img width="12"/>
 </div>
 
-### Tecnologia
+### Technology
 
 <div align="center">
 
