@@ -6,7 +6,9 @@
 
 </div>
 
-<h2 align="left"> Hello! My name is Jean, I'm a curious person, constantly learning, and I like to challenge myself to grow personally and professionally. I'm always looking for new opportunities and experiences that help me evolve and contribute to projects in a meaningful way.</h2>
+<h3 align="left">I'm passionate about solving problems, building efficient solutions, and turning complex challenges into practical results. I enjoy understanding how things work, improving existing systems, and developing software that makes a real difference.</h3>
+
+<h3 align="left">I'm constantly exploring new technologies, refining my skills, and taking on challenges that push me to grow as a developer. My focus is on writing clean, maintainable code and delivering reliable solutions that create real value.</h3>
 
 ## 📊 GitHub Stats
 
