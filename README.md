@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jean-devbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&locale=pt-br" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jean-devbr&layout=compact&theme=dracula&hide_border=false&locale=pt-br&langs_count=6" height="165" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jean-devbr&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&locale=pt-br" height="165" alt="Estatísticas do GitHub de Jean Costa" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jean-devbr&layout=compact&theme=dracula&hide_border=false&locale=pt-br&langs_count=6" height="165" alt="Linguagens mais usadas por Jean Costa" />
 </div>
 
 -----
