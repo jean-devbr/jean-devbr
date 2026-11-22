@@ -58,6 +58,18 @@
  
 </div>
 
+### Segurança
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="30" alt="Spring Security" title="Spring Security" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge" height="30" alt="OAuth 2.0" title="OAuth 2.0" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="30" alt="JWT" title="JSON Web Token (JWT)" />
+
+</div>
+
 ### Banco de dados && Container
 
 <div align="center">
