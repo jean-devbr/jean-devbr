@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;23+years+old+%7C+Rio+de+Janeiro;Focused+on+Back-end+and+APIs;Passionate+about+technology;Always+learning+something+new)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;23+years+old+%7C+Rio+de+Janeiro%2C+Brazil;Focused+on+Full-Stack+and+Software+Architecture;Passionate+about+technology;Always+learning+something+new)
 
 </div>
 
